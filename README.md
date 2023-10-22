@@ -1,5 +1,9 @@
 # NLP Data Analysis Project
 
+## Blog - [Medium](https://medium.com/@akash.hiremath25/enhancing-sentiment-analysis-models-for-reddit-and-twitter-data-d9e8310a393c)
+
+## Dataset - [Kaggle](https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset)
+
 ## Overview
 
 This project aims to apply Natural Language Processing (NLP) techniques to analyze and extract insights from a diverse range of textual data. The goal is to uncover patterns, sentiment, and meaningful information from text sources, enabling informed decision-making and deeper understanding of the underlying data.
